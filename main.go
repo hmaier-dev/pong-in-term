@@ -72,9 +72,6 @@ func main(){
 	
 }
 
-func registerInput(screen tcell.Screen){
-
-}
 
 
 // EXAMPLE-function
